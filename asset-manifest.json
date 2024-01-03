@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/inhyung.github.io/react-for-beginners/static/js/main.a00003c0.js",
-    "index.html": "/inhyung.github.io/react-for-beginners/index.html",
-    "main.a00003c0.js.map": "/inhyung.github.io/react-for-beginners/static/js/main.a00003c0.js.map"
+    "main.js": "/react-for-beginners/static/js/main.a00003c0.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.a00003c0.js.map": "/react-for-beginners/static/js/main.a00003c0.js.map"
   },
   "entrypoints": [
     "static/js/main.a00003c0.js"
